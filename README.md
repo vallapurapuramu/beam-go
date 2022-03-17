@@ -1,4 +1,4 @@
-[X] install go
+ install go
 [X] create a folder with name "beam-go"
 [X] go get -u github.com/apache/beam/sdks/v2/go/pkg/beam
 [X] go install github.com/apache/beam/sdks/v2/go/examples/wordcount
